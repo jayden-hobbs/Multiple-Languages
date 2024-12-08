@@ -1,5 +1,5 @@
 # Multiple-Languages
-A collection of codes where I will do a project such as Noughts and Crosses or Rock, Paper, Scissors in lots of languages.
+A collection of codes where I will create a rock paper scissors game in multiple differennt languages to broaden my programming knowledge!
 ### Languages:
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
