@@ -19,7 +19,6 @@ A collection of codes where I will create a rock paper scissors game in multiple
 [![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)  
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
 [![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)  
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  
 [![Perl Badge](https://img.shields.io/badge/-Perl-0298C3?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)  
 
