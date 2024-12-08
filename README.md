@@ -2,10 +2,11 @@
 A collection of codes where I will create a rock paper scissors game in multiple differennt languages to broaden my programming knowledge!
 
 ### Repo Stats 📈📊⭐
-![Total Commits](https://badgen.net/github/commits/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=ff69b4&label=Total%20Commits&width=300&height=80)
-![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=green&logo=open-source-initiative&label=License&license=Unlicense&width=300&height=80)
-![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=yellow&logo=github&label=Stars&width=300&height=80)
-![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=blue&logo=git&label=Last%20Commit&width=300&height=80)
+![Total Commits](https://img.shields.io/github/commits-since/jayden-hobbs/Multiple-Languages/latest?style=for-the-badge&color=ff69b4&label=Total%20Commits&logo=github&logoColor=white)
+![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=green&logo=open-source-initiative&label=License&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=yellow&logo=github&label=Stars&logoColor=black)
+![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=blue&logo=git&label=Last%20Commit&logoColor=white)
+
 
 
 
