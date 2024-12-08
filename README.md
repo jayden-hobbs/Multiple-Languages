@@ -2,10 +2,11 @@
 A collection of codes where I will create a rock paper scissors game in multiple differennt languages to broaden my programming knowledge!
 
 ### Repo Stats 📈📊⭐
-![Total Commits](https://img.shields.io/github/commits-since/jayden-hobbs/Multiple-Languages/latest?style=for-the-badge&color=ff69b4&label=Total%20Commits&logo=github&logoColor=white)
-![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=green&logo=open-source-initiative&label=License&logoColor=white)
-![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=yellow&logo=github&label=Stars&logoColor=black)
-![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Multiple-Languages?style=for-the-badge&color=blue&logo=git&label=Last%20Commit&logoColor=white)
+![Total Commits](https://badgen.net/github/commits/jayden-hobbs/Multiple-Languages?style=flat-square&color=ff69b4&label=Total%20Commits)
+![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=flat-square&color=green&logo=open-source-initiative&label=License&license=Unlicense)
+![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Multiple-Languages?style=flat-square&color=yellow&logo=github&label=Stars)
+![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Multiple-Languages?style=flat-square&color=blue&logo=git&label=Last%20Commit)
+
 
 
 
