@@ -1,6 +1,14 @@
-# Multiple-Languages
+# Multiple-Languages 🤯
 A collection of codes where I will create a rock paper scissors game in multiple differennt languages to broaden my programming knowledge!
-### Languages:
+
+### Repo Stats 📈📊⭐
+![Total Commits](https://badgen.net/github/commits/jayden-hobbs/Multiple-Languages?style=flat-square&color=ff69b4&label=Total%20Commits)
+![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=flat-square&color=green&logo=open-source-initiative&label=License)
+![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Multiple-Languages?style=flat-square&color=yellow&logo=github&label=Stars)
+![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Multiple-Languages?style=flat-square&color=blue&logo=git&label=Last%20Commit)
+
+
+### Languages 💬🔉
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![Java Badge](https://img.shields.io/badge/-Java-F8981D?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
