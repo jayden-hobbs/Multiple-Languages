@@ -9,16 +9,46 @@ A collection of codes where I will create a rock paper scissors game in multiple
 
 
 ### Languages 💬🔉
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Java Badge](https://img.shields.io/badge/-Java-F8981D?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![C++ Badge](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)  
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
-[![Swift Badge](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)  
-[![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)  
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
-[![R Badge](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  
-[![Perl Badge](https://img.shields.io/badge/-Perl-0298C3?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)  
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/-JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+</a>
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/-Java-E94B10?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-0095B6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+</a>
+
+<br>
+
+<a href="https://www.ruby-lang.org/en/">
+  <img src="https://img.shields.io/badge/-Ruby-D9145B?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"/>
+</a>
+<a href="https://www.php.net/">
+  <img src="https://img.shields.io/badge/-PHP-6C6CD4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+</a>
+<a href="https://www.swift.org/">
+  <img src="https://img.shields.io/badge/-Swift-FF6A00?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
+</a>
+<a href="https://golang.org/">
+  <img src="https://img.shields.io/badge/-Go-0C4E73?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
+</a>
+
+<br>
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/-TypeScript-003D61?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+</a>
+<a href="https://www.rust-lang.org/">
+  <img src="https://img.shields.io/badge/-Rust-6D4F8B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge"/>
+</a>
+<a href="https://www.r-project.org/">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
+</a>
+<a href="https://www.perl.org/">
+  <img src="https://img.shields.io/badge/-Perl-397B84?style=for-the-badge&logo=perl&logoColor=white" alt="Perl Badge"/>
+</a>
 
