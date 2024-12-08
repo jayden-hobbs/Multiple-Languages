@@ -3,7 +3,7 @@ A collection of codes where I will create a rock paper scissors game in multiple
 
 ### Repo Stats 📈📊⭐
 ![Total Commits](https://badgen.net/github/commits/jayden-hobbs/Multiple-Languages?style=flat-square&color=ff69b4&label=Total%20Commits)
-![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=flat-square&color=green&logo=open-source-initiative&label=License)
+![GitHub License](https://img.shields.io/github/license/jayden-hobbs/Multiple-Languages?style=flat-square&color=green&logo=open-source-initiative&label=License&license=Unlicense)
 ![GitHub Stars](https://img.shields.io/github/stars/jayden-hobbs/Multiple-Languages?style=flat-square&color=yellow&logo=github&label=Stars)
 ![Last Commit](https://img.shields.io/github/last-commit/jayden-hobbs/Multiple-Languages?style=flat-square&color=blue&logo=git&label=Last%20Commit)
 
