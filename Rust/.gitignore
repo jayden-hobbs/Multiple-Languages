@@ -1,0 +1,8 @@
+# Ignore Rust build artifacts
+target/
+
+# Ignore Cargo.lock (optional, typically ignored for libraries)
+Cargo.lock
+
+# Ignore Visual Studio Debugging files (.pdb)
+*.pdb
