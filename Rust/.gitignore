@@ -6,3 +6,5 @@ main.pdb
 
 # Optionally, ignore all .pdb files
 *.pdb
+
+*.exe
