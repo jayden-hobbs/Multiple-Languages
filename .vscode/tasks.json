@@ -1,0 +1,52 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "assemble",
+        "type": "shell",
+        "command": "nasm",
+        "args": [
+          "-f", "win32",      // Change output format (win32 or elf depending on your system)
+          "Assembly/program.asm",  // Correct path to your .asm file
+          "-o", "program.obj" // Output object file
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": [],
+        "detail": "Assemble the program using NASM"
+      },
+      {
+        "label": "link",
+        "type": "shell",
+        "command": "gcc",
+        "args": [
+          "program.obj",  // Replace with your object file name
+          "-o", "program.exe" // Output executable
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": [],
+        "detail": "Link the object file with GCC"
+      },
+      {
+        "label": "Run in DOSBox",
+        "type": "shell",
+        "command": "dosbox",
+        "args": [
+          "program.exe" // Assuming the program is compiled to program.exe
+        ],
+        "group": "test",
+        "dependsOn": [
+          "assemble",
+          "link"
+        ],
+        "problemMatcher": [],
+        "detail": "Run the compiled program in DOSBox"
+      }
+    ]
+  }
+  
