@@ -55,6 +55,10 @@ A collection of codes where I will create a rock paper scissors game in multiple
   <a href="https://www.perl.org/">
     <img src="https://img.shields.io/badge/-Perl-397B84?style=for-the-badge&logo=perl&logoColor=white" alt="Perl Badge"/>
   </a>
+  <a href="https://kotlinlang.org/">
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
+</a>
+
 </div>
 
 
