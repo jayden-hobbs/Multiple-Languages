@@ -1,7 +1,5 @@
 import kotlin.random.Random
 
-@Suppress("UNRESOLVED_REFERENCE")
-
 fun getPlayerChoice(): String {
     println("Choose rock, paper, or scissors: ")
     return readLine()!!.lowercase()
