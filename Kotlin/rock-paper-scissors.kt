@@ -27,8 +27,16 @@ fun determineWinner(playerChoice: String, computerChoice: String) {
 }
 
 fun main() {
-    val playerChoice = getPlayerChoice()
-    val computerChoice = getComputerChoice()
-    determineWinner(playerChoice, computerChoice)
+    var playAgain: String
+    do {
+        val playerChoice = getPlayerChoice()
+        val computerChoice = getComputerChoice()
+        determineWinner(playerChoice, computerChoice)
+        
+        println("Do you want to play again? (yes/no): ")
+        playAgain = readLine()!!.lowercase()
+    } while (playAgain == "yes")
+    
+    println("Thanks for playing!")
 }
 
